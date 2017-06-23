@@ -270,22 +270,22 @@
       </address>
       <h4>Social</h4>
       <div class="row">
-      	<div class="col-xs-2"><img class="img-circle" src="32X32.gif" alt=""></div>
-      	<div class="col-xs-2"><img class="img-circle" src="32X32.gif" alt=""></div>
-      	<div class="col-xs-2"><img class="img-circle" src="32X32.gif" alt=""></div>
-      	<div class="col-xs-2"><img class="img-circle" src="32X32.gif" alt=""></div>        
+      	<div class="col-xs-2"><img class="img-circle" src="img/32x32.gif" alt=""></div>
+      	<div class="col-xs-2"><img class="img-circle" src="img/32x32.gif" alt=""></div>
+      	<div class="col-xs-2"><img class="img-circle" src="img/32x32.gif" alt=""></div>
+      	<div class="col-xs-2"><img class="img-circle" src="img/32x32.gif" alt=""></div>        
       </div>
     </div>
     <div class="col-lg-4 col-md-6 col-sm-6">
       <h2>Testimonials</h2>
       <div class="media">
-        <div class="media-left"> <a href="#"> <img class="media-object" src="35X35.gif" alt="..."> </a> </div>
+        <div class="media-left"> <a href="#"> <img class="media-object" src="img/35x35.gif" alt="..."> </a> </div>
         <div class="media-body">
           <h4 class="media-heading">Media heading</h4>
           Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin commodo. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. </div>
       </div>
       <div class="media">
-        <div class="media-left"> <a href="#"> <img class="media-object" src="35X35.gif" alt="..."> </a> </div>
+        <div class="media-left"> <a href="#"> <img class="media-object" src="img/35x35.gif" alt="..."> </a> </div>
         <div class="media-body">
           <h4 class="media-heading">Media heading</h4>
           Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin commodo. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. </div>
