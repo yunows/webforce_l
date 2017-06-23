@@ -1,3 +1,7 @@
+-<?php
+require 'class/Autoload.php';
+new Autoload();
+ ?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
