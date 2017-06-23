@@ -1,5 +1,5 @@
 <?php
 
-dqsd
+echo "Hello world ! ";
 
 ?>
