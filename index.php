@@ -1,8 +1,3 @@
-<?php
-  require 'class/Autoload.php';
-  new Autoload();
-?>
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -114,7 +109,7 @@
 <div class="container">
   <div class="row">
     <div class="col-sm-6">
-      <div class="thumbnail"> <img src="img/img/600X300.gif" alt="Thumbnail Image 1" class="img-responsive">
+      <div class="thumbnail"> <img src="img/600X300.gif" alt="Thumbnail Image 1" class="img-responsive">
         <div class="caption">
           <h3>Feature</h3>
           <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deserunt, at.</p>
@@ -124,7 +119,7 @@
       </div>
     </div>
     <div class="col-sm-6">
-      <div class="thumbnail"> <img src="img/img/600X300.gif" alt="Thumbnail Image 1" class="img-responsive">
+      <div class="thumbnail"> <img src="img/600X300.gif" alt="Thumbnail Image 1" class="img-responsive">
         <div class="caption">
           <h3>Feature</h3>
           <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi, atque.</p>
